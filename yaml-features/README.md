@@ -16,8 +16,8 @@ Include this yaml file as a package along with kauf-rgbs.yaml.  You should have 
 
 ```
 packages:
-  Kauf.RGBSw: github://KaufHA/kauf-rgb-switch/kauf-rgbs.yaml
-  rotate_colors: github://KaufHA/kauf-rgb-switch/yaml-features/rotate-colors-sync-to-ha-light.yaml
+  Kauf.RGBSw: github://f03809/kauf-rgb-switch/kauf-rgbs.yaml
+  rotate_colors: github://f03809/kauf-rgb-switch/yaml-features/rotate-colors-sync-to-ha-light.yaml
 ```
 
 ### Configuration
@@ -88,8 +88,8 @@ Hold the switch's button to put the switch into fan mode, wherein pressing the s
 Include this yaml file as a package along with kauf-rgbs.yaml.  You should have the following in your local yaml file.  hold-for-fan-mode.yaml must be include before kauf-rgbs.yaml.
 ```
 packages:
-  Kauf.RGBSw: github://KaufHA/kauf-rgb-switch/kauf-rgbs.yaml
-  fan_mode: github://KaufHA/kauf-rgb-switch/yaml-features/hold-for-fan-mode.yaml
+  Kauf.RGBSw: github://f03809/kauf-rgb-switch/kauf-rgbs.yaml
+  fan_mode: github://f03809/kauf-rgb-switch/yaml-features/hold-for-fan-mode.yaml
 ```
 
 ### Configuration

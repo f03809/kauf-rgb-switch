@@ -6,7 +6,7 @@ substitutions:
   # in your local yaml file by redefining them.
   #
   # packages:
-  #   kauf.rgbsw: github://KaufHA/kauf-rgb-switch/kauf-rgbs-lite.yaml
+  #   kauf.rgbsw: github://f03809/kauf-rgb-switch/kauf-rgbs-lite.yaml
   #
 
   name: kauf-rgbsw             # **** CHANGE DEVICE NAME TO SOMETHING UNIQUE PER DEVICE.  RENAME YAML FILE TO SAME NAME.    ****
