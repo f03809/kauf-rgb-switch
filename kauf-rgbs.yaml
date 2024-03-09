@@ -21,6 +21,7 @@ substitutions:
   sub_4m: "false"
   sub_import_url: github://f03809/kauf-rgb-switch/kauf-rgbs.yaml
 
+  disable_entities: "true"     # set to "false" to have all entities show up in Home Assistant automatically
   disable_webserver: "false"   # set to "true" to disable webserver listening on port 80.
 
   wifi_ap_timeout: 2min        # default to 2 minute timeout for yaml file as package.
